@@ -223,5 +223,3 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 </section>
 
 <!-- /.links -->
-
-
